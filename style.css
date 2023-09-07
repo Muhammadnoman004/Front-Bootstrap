@@ -1,0 +1,77 @@
+.container-fluid{
+    position: fixed !important;
+    left: 0%;
+}
+
+
+.container-fluid{
+    background-color: rgb(101, 79, 226);
+    height: 90px;
+}
+
+.nav-link{
+    color: rgb(236, 218, 248) !important;
+    background-color: rgb(101, 79, 226) !important;
+    position: relative;
+    top: 17px;
+}
+.navbar-brand{
+    position: relative;
+    top: 17px;
+}
+.git{
+    position: relative;
+    left: 400px;
+    top: 23px;
+    background-color:rgb(101, 79, 226) ;
+}
+.twiter{
+    position: relative;
+    left: 418px;
+    top: 24px;
+    background-color: rgb(101, 79, 226);
+}
+.para{
+    display: inline-block;
+}
+.btn{
+    font-weight: bold !important;
+}
+
+.warning{
+    text-align: center;
+}
+
+.build{
+    text-align: center;
+    font-size: 400%;
+    letter-spacing: -3px;
+    line-height: 60px;
+}
+.para_1{
+    text-align: center;
+    font-size: x-large;
+    position: relative;
+    top: 5px;
+    color: rgba(0, 0, 0, 0.568);
+}
+.read{
+    background-color: rgba(55, 0, 128, 0.671) !important;
+    position: relative;
+    left: 10px;
+    height: 50px;
+    width: 200px;
+    
+}
+.read:hover{
+    background-color: rgba(40, 0, 120,0.661) !important;
+}
+#ready{
+    text-align: center !important;
+}
+.npm{
+    height: 50px;
+    width: 300px;
+    word-spacing: 7px;
+}
+
